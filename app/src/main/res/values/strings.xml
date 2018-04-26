@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hunting Stereo Sounds</string>
+    <string name="imageViewDescription">Изображение</string>
+    <string name="empty_list">Список пуст</string>
+    <string name="about_text1">Күндү аҕабар, 53 сааскын туолбуккунан.</string>
+    <string name="about_text2">Уолуҥ Петя.</string>
+    <string name="about_text3">Муус устар 7 күнэ 2018 сыл.</string>
+</resources>
